@@ -1,1 +1,1 @@
-
+To import your WMS/WFS/WCS sqlite/gpkg open your qgis.ini located at ~/.local/share/QGIS/QGIS3/profiles/default/QGIS open the file and paste the line in sections [qgis] for WMS/WFS/WCS [SpatiaLite] for sqlite and [providers] for gpkg files.
